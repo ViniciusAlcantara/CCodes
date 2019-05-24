@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409076482 source:c:\users\vini\desktop\documents\71046\laeds2\temperaturas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

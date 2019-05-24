@@ -1,0 +1,6 @@
+7106 Vinicius 9 9.5 9.8
+6104 Tais 7 8 7.5
+4107 Denis 5 4.5 8
+5408 Bruno 4 5 9
+4505 Jonathan 6 7 8
+6306 Rafael 8 5 6 
