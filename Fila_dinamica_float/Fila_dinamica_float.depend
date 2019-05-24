@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1425490347 source:c:\users\vinicius\documents\71046\laeds3\fila_dinamica_float\main.c
+	<stdio.h>
+	<stdlib.h>
+

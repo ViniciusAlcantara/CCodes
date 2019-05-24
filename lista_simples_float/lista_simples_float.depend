@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1425574961 source:c:\users\vinicius\documents\71046\laeds3\lista_simples_float\main.c
+	<stdio.h>
+	<stdlib.h>
+

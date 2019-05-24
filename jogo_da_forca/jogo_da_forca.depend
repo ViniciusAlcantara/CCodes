@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1430079729 source:c:\users\vinicius\documents\71046\laeds3\jogo_da_forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

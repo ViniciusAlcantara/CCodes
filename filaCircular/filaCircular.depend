@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1424518817 source:c:\users\vinicius\documents\71046\laeds3\filacircular\main.c
+	<stdio.h>
+	<stdlib.h>
+

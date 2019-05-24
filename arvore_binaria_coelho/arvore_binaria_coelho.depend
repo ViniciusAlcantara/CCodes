@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1428753448 source:c:\users\vinicius\documents\71046\laeds3\arvore_binaria_coelho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
