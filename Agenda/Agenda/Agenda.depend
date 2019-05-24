@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1409766561 source:c:\users\raphael\desktop\linguagem c\programas\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1410562615 source:c:\users\vini\desktop\documents\71046\laeds2\agenda\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

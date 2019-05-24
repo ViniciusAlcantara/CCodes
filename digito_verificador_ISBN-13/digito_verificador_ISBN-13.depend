@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1408129159 source:c:\users\vini\desktop\documents\71046\aeds2\digito_verificador_isbn-13\main.c
+	<stdio.h>
+	<stdlib.h>
+

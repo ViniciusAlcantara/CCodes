@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1411751535 source:c:\users\vini\desktop\documents\71046\laeds2\agenda1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
